@@ -1,0 +1,22 @@
+.service{
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.service img{
+    width: 289px;
+    height: 161px;
+}
+
+.service-button{
+    background-color:blue;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+}
+.service-button:hover{
+    background-color: goldenrod;
+}

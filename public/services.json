@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "DELIVERS PATIENTS",
+        "cost": "30000",
+        "description": "A Kentucky doctor who checked into the hospital to give birth to her own child found herself back on call, delivering the baby of another woman first after the patient had last-minute complications.",
+        "img": "https://i.ibb.co/SXKKTSg/Services-3.jpg"
+    },
+    {
+        "id": 2,
+        "name": "VACCINE PUSH",
+        "cost": "7000",
+        "description": "Separate and distinct from PUSH Responsible for all things COVID  Separate and distinct from PUSH Responsible for all things COVID including testing, quarantine, isolation, vaccinations and all other COVID related information. ",
+        "img": "https://i.ibb.co/WccyDTF/Services-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "PRESSURE CHECKING",
+        "cost": "1500",
+        "description": "A blood pressure test is a routine part of most doctor appointments. Blood pressure screening is an important part of your general health. Find out when you should have a blood pressure test.",
+        "img": "https://i.ibb.co/p0MwmJn/Services-1.jpg"
+    }
+   
+]
